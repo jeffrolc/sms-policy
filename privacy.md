@@ -12,22 +12,23 @@ This SMS notification service ("Service") sends automated text messages includin
 
 You opt in to receive SMS messages by:
 
+- Completing the opt-in form at https://jeffrolc.github.io/sms-policy/optin.html, or
 - Sending a text message to +1 (980) 689-6557, or
 - Providing your phone number directly to the service provider and requesting SMS notifications.
 
-By initiating a text conversation with this number or providing your phone number for notifications, you expressly consent to receive automated SMS messages.
+By completing the opt-in form, initiating a text conversation with this number, or providing your phone number for notifications, you expressly consent to receive automated SMS messages.
 
 ## Information We Collect
 
-We collect only the phone numbers necessary to deliver SMS messages. We do not collect names, email addresses, or other personal information through this Service.
+We collect only the information necessary to deliver SMS messages, including your phone number and name (if provided during opt-in). We do not collect email addresses or other personal information through this Service.
 
 ## How We Use Your Information
 
-Phone numbers are used solely to send SMS notifications and alerts you have requested. We do not:
+Your mobile information is used solely to send SMS notifications and alerts you have requested. We will never sell, share, or distribute the mobile information (including phone numbers) of end users who opt in to this messaging program to any third parties for marketing or promotional purposes. Specifically, we do not:
 
-- Sell or rent your phone number to third parties
-- Use your phone number for marketing or promotional purposes
-- Share your phone number except as required to deliver messages through our telecommunications provider (Twilio)
+- Sell, rent, or share your mobile information with third parties
+- Use your mobile information for marketing or promotional purposes
+- Disclose your mobile information except as required to deliver messages through our telecommunications provider (Twilio)
 
 ## Data Retention
 
